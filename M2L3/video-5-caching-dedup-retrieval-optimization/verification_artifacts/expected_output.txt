@@ -1,0 +1,7 @@
+cache miss
+Removed 2 duplicate chunks
+{'source_id': 'doc0', 'chunk_id': 0, 'score': 1.0, 'text': 'dup text'}
+{'source_id': 'doc2', 'chunk_id': 2, 'score': 0.3333, 'text': 'unique text'}
+# Second run:
+cache hit
+Removed 2 duplicate chunks

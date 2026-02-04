@@ -1,0 +1,23 @@
+{
+  "name": "text-chunking",
+  "version": "1.0.0",
+  "description": "Text chunking script with configurable parameters",
+  "type": "module",
+  "main": "chunking.ts",
+  "scripts": {
+    "chunk": "tsx chunking.ts",
+    "test": "tsx chunking.ts"
+  },
+  "keywords": [
+    "chunking",
+    "text-processing",
+    "nlp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.3.3"
+  }
+}

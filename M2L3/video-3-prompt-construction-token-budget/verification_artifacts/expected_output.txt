@@ -1,0 +1,20 @@
+Total tokens: 350
+Truncated to 3 chunks to meet budget 2048
+=== RAG Grounded Prompt ===
+
+User Query:
+X
+
+Retrieved Chunks:
+Sample chunk text 0
+Sample chunk text 1
+Sample chunk text 2
+
+Provenance:
+doc0|0
+doc1|1
+doc2|2
+
+Please answer based on the above context.
+LLM Stub Response:
+[LLM-STUB RESPONSE] Simulated stub result based on the prompt.

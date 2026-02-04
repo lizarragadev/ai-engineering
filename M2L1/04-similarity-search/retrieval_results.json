@@ -1,0 +1,102 @@
+{
+  "retrieval_date": "2026-01-28T02:29:10.909Z",
+  "top_k": 5,
+  "queries": [
+    {
+      "query": "¿Qué es la inteligencia artificial?",
+      "top_k": [
+        {
+          "chunk_id": "sample_corpus_chunk_0",
+          "score": 0.5512332373709882,
+          "snippet": "La inteligencia artificial ha revolucionado la forma en que interactuamos con la tecnología. Los algoritmos de aprendizaje automático ahora pueden analizar grandes cantidades de datos y realizar tarea...",
+          "provenance": {
+            "source_doc_id": "sample_corpus",
+            "chunk_index": 0
+          }
+        },
+        {
+          "chunk_id": "sample_corpus_chunk_2",
+          "score": 0.32832923242675843,
+          "snippet": "La computación en la nube ha transformado cómo las organizaciones despliegan y escalan aplicaciones. Servicios como Amazon Web Services, Google Cloud y Microsoft Azure ofrecen infraestructura flexible...",
+          "provenance": {
+            "source_doc_id": "sample_corpus",
+            "chunk_index": 2
+          }
+        },
+        {
+          "chunk_id": "sample_corpus_chunk_1",
+          "score": 0.23155999707558386,
+          "snippet": "La ciencia de datos combina estadística, informática y conocimiento del dominio para extraer información valiosa de conjuntos de datos complejos. Los principios de la ingeniería de software guían el d...",
+          "provenance": {
+            "source_doc_id": "sample_corpus",
+            "chunk_index": 1
+          }
+        }
+      ]
+    },
+    {
+      "query": "¿Cómo funciona el aprendizaje automático?",
+      "top_k": [
+        {
+          "chunk_id": "sample_corpus_chunk_0",
+          "score": 0.4128180139303131,
+          "snippet": "La inteligencia artificial ha revolucionado la forma en que interactuamos con la tecnología. Los algoritmos de aprendizaje automático ahora pueden analizar grandes cantidades de datos y realizar tarea...",
+          "provenance": {
+            "source_doc_id": "sample_corpus",
+            "chunk_index": 0
+          }
+        },
+        {
+          "chunk_id": "sample_corpus_chunk_2",
+          "score": 0.3017540938847302,
+          "snippet": "La computación en la nube ha transformado cómo las organizaciones despliegan y escalan aplicaciones. Servicios como Amazon Web Services, Google Cloud y Microsoft Azure ofrecen infraestructura flexible...",
+          "provenance": {
+            "source_doc_id": "sample_corpus",
+            "chunk_index": 2
+          }
+        },
+        {
+          "chunk_id": "sample_corpus_chunk_1",
+          "score": 0.2214376397851751,
+          "snippet": "La ciencia de datos combina estadística, informática y conocimiento del dominio para extraer información valiosa de conjuntos de datos complejos. Los principios de la ingeniería de software guían el d...",
+          "provenance": {
+            "source_doc_id": "sample_corpus",
+            "chunk_index": 1
+          }
+        }
+      ]
+    },
+    {
+      "query": "¿Cuáles son los beneficios del computo en la nube?",
+      "top_k": [
+        {
+          "chunk_id": "sample_corpus_chunk_2",
+          "score": 0.3858199433242581,
+          "snippet": "La computación en la nube ha transformado cómo las organizaciones despliegan y escalan aplicaciones. Servicios como Amazon Web Services, Google Cloud y Microsoft Azure ofrecen infraestructura flexible...",
+          "provenance": {
+            "source_doc_id": "sample_corpus",
+            "chunk_index": 2
+          }
+        },
+        {
+          "chunk_id": "sample_corpus_chunk_0",
+          "score": 0.3230606554712184,
+          "snippet": "La inteligencia artificial ha revolucionado la forma en que interactuamos con la tecnología. Los algoritmos de aprendizaje automático ahora pueden analizar grandes cantidades de datos y realizar tarea...",
+          "provenance": {
+            "source_doc_id": "sample_corpus",
+            "chunk_index": 0
+          }
+        },
+        {
+          "chunk_id": "sample_corpus_chunk_1",
+          "score": 0.25116233936970767,
+          "snippet": "La ciencia de datos combina estadística, informática y conocimiento del dominio para extraer información valiosa de conjuntos de datos complejos. Los principios de la ingeniería de software guían el d...",
+          "provenance": {
+            "source_doc_id": "sample_corpus",
+            "chunk_index": 1
+          }
+        }
+      ]
+    }
+  ]
+}

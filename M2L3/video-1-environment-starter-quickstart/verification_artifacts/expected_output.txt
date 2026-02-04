@@ -1,0 +1,5 @@
+Loaded index with 5 vectors from sample_data/faiss_sample.index
+Running quick retrieval smoke test
+doc0	score=1.0000	source_id=doc0	chunk_id=0	text=Sample chunk text 0
+doc1	score=0.5000	source_id=doc1	chunk_id=1	text=Sample chunk text 1
+doc2	score=0.3333	source_id=doc2	chunk_id=2	text=Sample chunk text 2

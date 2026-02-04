@@ -1,0 +1,31 @@
+{
+  "name": "preflight-setup",
+  "version": "1.0.0",
+  "description": "Scripts de verificación de configuración para la lección de incrustaciones y segmentación de texto",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "check-env": "node --loader ts-node/esm check-environment.ts",
+    "check-node": "node --loader ts-node/esm check-node-version.ts",
+    "check-api-key": "tsx check-openai-key.ts",
+    "verify-all": "npm run check-node && npm run check-env && npm run check-api-key",
+    "verify": "node --loader ts-node/esm verify-setup.ts"
+  },
+  "keywords": [
+    "typescript",
+    "setup",
+    "verification"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.52.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.3.3"
+  }
+}

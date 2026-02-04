@@ -1,0 +1,9 @@
+La inteligencia artificial ha revolucionado la forma en que interactuamos con la tecnología. Los algoritmos de aprendizaje automático ahora pueden analizar grandes cantidades de datos y realizar tareas complejas.
+
+El campo de la ciencia de la computación sigue evolucionando a un ritmo sin precedentes. Desde la computación cuántica hasta las redes neuronales, la innovación no cesa.
+
+La ciencia de datos combina estadística, informática y conocimiento del dominio para extraer información valiosa de conjuntos de datos complejos.
+
+Los principios de la ingeniería de software guían el desarrollo de sistemas robustos y mantenibles. El control de versiones, las pruebas y las metodologías ágiles son componentes clave.
+
+La computación en la nube ha transformado cómo las organizaciones despliegan y escalan aplicaciones. Servicios como Amazon Web Services, Google Cloud y Microsoft Azure ofrecen infraestructura flexible.

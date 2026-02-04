@@ -1,0 +1,4 @@
+Resultados rerankeados:
+{'source_id': 'doc0', 'chunk_id': 0, 'score': 1.0, 'custom_feature': 0.0, 'combined_score': 1.0, 'text': 'Sample chunk text 0'}
+{'source_id': 'doc1', 'chunk_id': 1, 'score': 0.5, 'custom_feature': 0.1, 'combined_score': 0.58, 'text': 'Sample chunk text 1'}
+# ... resultados filtrados con umbral 0.35

@@ -1,0 +1,12 @@
+=== RAG Grounded Prompt ===
+
+User Query:
+{user_query}
+
+Retrieved Chunks:
+{retrieved_chunks}
+
+Provenance:
+{provenance}
+
+Please answer based on the above context.

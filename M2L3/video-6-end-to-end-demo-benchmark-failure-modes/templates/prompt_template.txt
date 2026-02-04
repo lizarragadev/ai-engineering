@@ -1,0 +1,12 @@
+=== Prompt RAG anclado ===
+
+Consulta del usuario:
+{user_query}
+
+Fragmentos recuperados:
+{retrieved_chunks}
+
+Procedencia:
+{provenance}
+
+Responde basándote en el contexto anterior.

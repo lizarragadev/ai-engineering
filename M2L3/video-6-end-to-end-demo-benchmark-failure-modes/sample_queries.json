@@ -1,0 +1,7 @@
+[
+  {"text": "What is RAG?", "k": 5},
+  {"text": "How to implement FAISS index?", "k": 5},
+  {"text": "Prompt token budgeting techniques", "k": 5},
+  {"text": "Relevance reranking methods", "k": 5},
+  {"text": "Caching strategies for retrieval", "k": 5}
+]

@@ -1,0 +1,13 @@
+{
+  "name": "video-4-openai-embeddings",
+  "version": "1.0.0",
+  "main": "embeddings_openai.ts",
+  "scripts": {
+    "start": "ts-node embeddings_openai.ts",
+    "embeddings": "ts-node embeddings_openai.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^4.7.0"
+  }
+}
