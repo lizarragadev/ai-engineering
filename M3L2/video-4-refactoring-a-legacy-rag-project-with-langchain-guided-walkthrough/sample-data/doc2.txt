@@ -1,0 +1,1 @@
+La generación aumentada por recuperación combina LLMs con recuperación para mejores resultados.
